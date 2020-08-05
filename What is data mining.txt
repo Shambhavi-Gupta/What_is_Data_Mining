@@ -1,0 +1,46 @@
+What is Data Mining?
+Data mining is the exploration and analysis of large data to discover meaningful patterns and rules. It’s considered a discipline under the data science field of study and differs from predictive analytics because it describes historical data, while data mining aims to predict future outcomes. Additionally, data mining techniques are used to build machine learning (ML) models that power modern artificial intelligence (AI) applications such as search engine algorithms and recommendation systems.
+
+How to do Data Mining
+The accepted data mining process involves six steps:
+Business understanding
+
+The first step is establishing the goals of the project are and how data mining can help you reach that goal. A plan should be developed at this stage to include timelines, actions, and role assignments.
+
+Data understanding
+
+Data is collected from all applicable data sources in this step. Data visualization tools are often used in this stage to explore the properties of the data to ensure it will help achieve the business goals.
+
+Data preparation
+
+Data is then cleansed, and missing data is included to ensure it is ready to be mined. Data processing can take enormous amounts of time depending on the amount of data analyzed and the number of data sources. Therefore, distributed systems are used in modern database management systems (DBMS) to improve the speed of the data mining process rather than burden a single system. They’re also more secure than having all an organization’s data in a single data warehouse. It’s important to include failsafe measures in the data manipulation stage so data is not permanently lost.
+
+Data Modeling
+
+Mathematical models are then used to find patterns in the data using sophisticated data tools.
+
+Evaluation
+
+The findings are evaluated and compared to business objectives to determine if they should be deployed across the organization.
+
+Deployment
+
+In the final stage, the data mining findings are shared across everyday business operations. An enterprise business intelligence platform can be used to provide a single source of the truth for self-service data discovery.
+
+Data Mining Process
+Benefits of Data Mining
+Automated Decision-Making
+
+Data Mining allows organizations to continually analyze data and automate both routine and critical decisions without the delay of human judgment. Banks can instantly detect fraudulent transactions, request verification, and even secure personal information to protect customers against identity theft. Deployed within a firm’s operational algorithms, these models can collect, analyze, and act on data independently to streamline decision making and enhance the daily processes of an organization.
+
+Accurate Prediction and Forecasting
+
+Planning is a critical process within every organization. Data mining facilitates planning and provides managers with reliable forecasts based on past trends and current conditions. Macy’s implements demand forecasting models to predict the demand for each clothing category at each store and route the appropriate inventory to efficiently meet the market’s needs.
+
+Cost Reduction
+
+Data mining allows for more efficient use and allocation of resources. Organizations can plan and make automated decisions with accurate forecasts that will result in maximum cost reduction. Delta imbedded RFID chips in passengers checked baggage and deployed data mining models to identify holes in their process and reduce the number of bags mishandled. This process improvement increases passenger satisfaction and decreases the cost of searching for and re-routing lost baggage.
+
+Customer Insights
+
+Firms deploy data mining models from customer data to uncover key characteristics and differences among their customers. Data mining can be used to create personas and personalize each touchpoint to improve overall customer experience. In 2017, Disney invested over one billion dollars to create and implement “Magic Bands.” These bands have a symbiotic relationship with consumers, working to increase their overall experience at the resort while simultaneously collecting data on their activities for Disney to analyze to further enhance their customer experience.
